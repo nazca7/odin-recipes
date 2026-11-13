@@ -72,3 +72,7 @@ p {
     margin-bottom: 30px;
     margin-top: 30px;
 }
+
+.recipe .section {
+    border: 1px solid black;
+}
