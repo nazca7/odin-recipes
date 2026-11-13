@@ -47,3 +47,28 @@ body {
 .food-item a {
     margin-bottom: 10px;
 }
+
+.recipe img {
+    display: block;
+    width: 500px;
+    height: auto;
+    margin: 0 auto;
+    border: 2px solid #fc334b;
+    margin-bottom: 50px;
+}
+
+.recipe ul,
+.recipe ol {
+    margin-left: 50px;
+}
+
+.recipe ul li,
+.recipe ol li {
+    margin-bottom: 12px;
+}
+
+.recipe h2,
+p {
+    margin-bottom: 30px;
+    margin-top: 30px;
+}
