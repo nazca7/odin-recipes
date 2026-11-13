@@ -90,3 +90,8 @@ p {
 .recipe .steps {
     border-color: #ffb722;
 }
+
+
+.recipe a {
+    font-size: 20px;
+}
